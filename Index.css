@@ -1,0 +1,24 @@
+
+
+
+.background {
+	background-image: url(./Images/Squall_wp1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.bg-trans {
+	background-color: rgba(0,0,0,0.9);
+}
+
+.bg-trans2 {
+	background-color: rgba(0,0,0,0.2);
+}
+
+.pix {
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+}
