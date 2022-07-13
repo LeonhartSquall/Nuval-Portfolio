@@ -82,7 +82,7 @@ body {
 }
 
 .background {
-	min-height: 100vh;
+	height: 100vh;
 	background-image: url(./Images/Squall_wp1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
