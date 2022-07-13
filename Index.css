@@ -5,13 +5,14 @@
 	background-image: url(./Images/Squall_wp1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: top center;
 	background-attachment: fixed;
 }
 
 .bg-trans {
 	background-color: rgba(0,0,0,0.9);
-	background-size: cover;
+	background-size: auto;
+	background-position: center;
 }
 
 .bg-trans2 {
